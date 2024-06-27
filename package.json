@@ -1,0 +1,18 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "inquirer": "^8.2.4",
+    "pg": "^8.12.0"
+  }
+}
