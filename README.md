@@ -6,7 +6,7 @@ My motivation was to build a database that works. I build this project because I
 
 ## Development 
 
-Example video: https://youtu.be/6t9FANbLSOY 
+Example video: https://youtu.be/tRJeKY0JVFA 
 
 ## Installation
 
